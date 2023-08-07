@@ -1,5 +1,5 @@
 # streamlit_test
-Streamlitを用いたアプリのテスト用データ。ニューヨークでのUberのデータを分析して表示します。
+Streamlitを用いたアプリのテスト用データ。ニューヨークでのUber利用者のデータを分析して表示します。
 
 アプリはこちら：
 https://apptest-nymn.streamlit.app/
